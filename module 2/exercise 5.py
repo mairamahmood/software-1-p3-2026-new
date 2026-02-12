@@ -9,4 +9,4 @@ grams = total_lots * 13.3
 #convert grams to kilograms and grams
 kilograms = int(grams // 1000)
 remaining_grams = grams % 1000
-print (f"the weight is {kilograms} kilograms and {grams : .2f} grams ")2
+print (f"the weight is {kilograms} kilograms and {grams : .2f} grams ")
