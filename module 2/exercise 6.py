@@ -1,0 +1,10 @@
+import random
+digit_three_1 = random.randint(1,10)
+digit_three_2 = random.randint(1,10)
+digit_three_3 = random.randint(1,10)
+digit_four_1 = random.randint(1,10)
+digit_four_2 = random.randint(1,10)
+digit_four_3 = random.randint(1,10)
+digit_four_4 = random.randint(1,10)
+print(f"3_digit code: \n {digit_three_1}{digit_three_2}{digit_three_3}")
+print (f"4_digit code:\n {digit_four_1}{digit_four_2}{digit_four_3}{digit_four_4}")
