@@ -12,3 +12,4 @@ elif cabin_class == "C":
     print("windowless cabin below the car deck.")
 else:
     print("Invalid cabin class.")
+-
